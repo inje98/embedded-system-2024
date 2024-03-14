@@ -30,18 +30,15 @@ IoT 개발자 임베디드 시스템 학습 리포지토리
 	- cd ..         : 부모파일 들어가기
 	
 ## 3일차
+- 기본 명령어
 
-- 리눅스 명령어 (https://m.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6390061632)
+	- 리눅스 명령어 (https://m.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6390061632)
 
 	- nanorc => nano /etc/nanorc
 	- gcc -o test01 test01.c => ./test01
 	- gcc test01.c => ./a.out
 	- enum(열거형)
 	- func(함수 정의 -> 함수 호출)
-
 	- 함수 선언 -> 함수 호출 -> 함수 정의
-input 선언
-
-C언어로 계산기 만들기
-	
+	- input 선언
 	
